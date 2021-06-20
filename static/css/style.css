@@ -13,6 +13,9 @@
 .bg-sienna {
   background-color: #E76F51 !important;
 }
+.bg-black {
+  background-color: #000000 !important;
+}
 .text-charcoal {
   color: #264653 !important;
 }
@@ -27,6 +30,9 @@
 }
 .text-sienna {
   color: #E76F51 !important;
+}
+.text-white {
+  color: #FFFFFF !important;
 }
 .shadow-lg {
   box-shadow: 0 1rem 3rem rgba(0,0,0,0.175) !important;
